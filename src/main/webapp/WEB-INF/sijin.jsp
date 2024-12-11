@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	집에 가고싶어요
+	점심 메뉴 추천해주세요
 </body>
 </html>
