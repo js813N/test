@@ -6,6 +6,8 @@ public class ldhTest {
 
 		System.out.println("이동훈 테스트");
 		
+		System.out.println("이동훈 테스트2");
+		
 	}
 
 }
